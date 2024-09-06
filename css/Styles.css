@@ -5,21 +5,24 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: chocolate;
 }
 #container {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(146, 76, 76);
+    background: #DDD;
     margin: 0 auto;
 }
 #container h1 {
     font-size: 20px;
 }
-#header {
-    width: 70%;
-    padding: 1em;
+#footer{
+    width: 90%;
+    padding: 2em;
     text-align: left;
-    border: 3px solid #333;
+    border: 1px solid #240bc3;
+    background: #DDD;
     margin: 0 auto;
 }
