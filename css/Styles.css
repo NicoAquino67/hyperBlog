@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: chocolate;
 }
 #container {
     width: 70%;
@@ -15,4 +16,11 @@ body {
 }
 #container h1 {
     font-size: 20px;
+}
+#footer{
+    width: 90%;
+    padding: 2em;
+    text-align: left;
+    border: 1px solid #240bc3;
+    margin: 0 auto;
 }
