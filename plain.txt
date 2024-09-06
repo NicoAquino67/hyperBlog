@@ -1,3 +1,4 @@
 esto es un archivo de texto plano
 este archivo volvio a travez de checkout
  volvi a recuperar el archivo txt y ahora agrego esta linea
+ añado tambien aqui para modificar mas de un archivo
